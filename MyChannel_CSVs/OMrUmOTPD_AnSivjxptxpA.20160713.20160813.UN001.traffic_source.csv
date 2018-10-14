@@ -1,0 +1,681 @@
+date,country_name,country_id,traffic_source,channel_display_name,channel_id,watch_time_minutes,views,average_view_duration
+2016-07-13,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,3.0
+2016-07-13,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.6
+2016-07-13,Spain,ES,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-07-13,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-07-13,Italy,IT,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.1
+2016-07-13,Japan,JP,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-13,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.4
+2016-07-13,Netherlands,NL,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-07-13,Philippines,PH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-07-13,Portugal,PT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-07-13,Tunisia,TN,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-07-13,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-07-13,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-07-13,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-07-14,Austria,AT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-14,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.7
+2016-07-14,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-07-14,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,4.1
+2016-07-14,Germany,DE,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-14,Germany,DE,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-14,Spain,ES,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1
+2016-07-14,United Kingdom,GB,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-07-14,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.3
+2016-07-14,Hong Kong,HK,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-07-14,Morocco,MA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.5
+2016-07-14,Philippines,PH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-07-14,Thailand,TH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-07-14,Tunisia,TN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5
+2016-07-14,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,20,8,2.5
+2016-07-14,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-07-14,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-14,Vietnam,VN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2
+2016-07-14,Vietnam,VN,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-15,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-15,Canada,CA,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.6
+2016-07-15,Hong Kong,HK,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.5
+2016-07-15,Netherlands,NL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-07-15,Poland,PL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-15,Poland,PL,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-15,Singapore,SG,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1
+2016-07-15,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,13,6,2.1
+2016-07-15,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,3.2
+2016-07-15,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-07-15,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-07-15,United States,US,Playlists,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-07-16,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-07-16,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-07-16,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-07-16,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,4,2.3
+2016-07-16,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-07-16,India,IN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-07-16,South Korea,KR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-16,Netherlands,NL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-07-16,New Zealand,NZ,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-07-16,Poland,PL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-16,Singapore,SG,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1
+2016-07-16,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,4,1.7
+2016-07-16,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,16,6,2.7
+2016-07-16,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.9
+2016-07-16,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-07-16,United States,US,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,3,1.6
+2016-07-16,South Africa,ZA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-07-17,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.9
+2016-07-17,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-07-17,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-17,Switzerland,CH,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-07-17,Croatia,HR,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-17,Israel,IL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-17,Italy,IT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.5
+2016-07-17,Malaysia,MY,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.0
+2016-07-17,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4
+2016-07-17,Netherlands,NL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-17,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,3,2.4
+2016-07-17,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.8
+2016-07-17,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.5
+2016-07-17,United States,US,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-18,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.0
+2016-07-18,Brazil,BR,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-18,France,FR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.1
+2016-07-18,Greece,GR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-07-18,Malaysia,MY,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.3
+2016-07-18,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-18,Malaysia,MY,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-18,Philippines,PH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0
+2016-07-18,Poland,PL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-07-18,Russia,RU,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-18,Sweden,SE,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-18,Singapore,SG,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-07-18,Turkey,TR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-07-18,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,6,2.0
+2016-07-18,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-07-19,Austria,AT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-07-19,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6
+2016-07-19,France,FR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.5
+2016-07-19,Morocco,MA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-07-19,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-19,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-07-19,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,4,1.3
+2016-07-19,Unknown Region,ZZ,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-07-20,Australia,AU,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-07-20,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-07-20,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.5
+2016-07-20,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-20,Canada,CA,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-20,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.5
+2016-07-20,France,FR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.4
+2016-07-20,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-20,Iceland,IS,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-07-20,Cayman Islands,KY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.5
+2016-07-20,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-07-20,Netherlands,NL,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,3,1.3
+2016-07-20,Poland,PL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-20,Portugal,PT,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-20,United States,US,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-07-20,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-20,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4
+2016-07-20,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,4,2.5
+2016-07-20,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.6
+2016-07-20,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1
+2016-07-20,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,1.9
+2016-07-21,Australia,AU,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-07-21,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-21,Canada,CA,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,3,1.4
+2016-07-21,Germany,DE,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.7
+2016-07-21,France,FR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-07-21,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.0
+2016-07-21,United Kingdom,GB,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.5
+2016-07-21,Hong Kong,HK,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-07-21,Iceland,IS,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0
+2016-07-21,South Korea,KR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1
+2016-07-21,Mexico,MX,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-07-21,Philippines,PH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-07-21,Poland,PL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1
+2016-07-21,Russia,RU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-07-21,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-07-21,Turkey,TR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-07-21,United States,US,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.1
+2016-07-21,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,6,1.9
+2016-07-21,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,45,29,1.5
+2016-07-21,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-21,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6
+2016-07-21,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,13,6,2.2
+2016-07-21,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,124,73,1.7
+2016-07-21,United States,US,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-07-21,United States,US,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.0
+2016-07-22,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-22,Australia,AU,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-07-22,Canada,CA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.8
+2016-07-22,Canada,CA,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-07-22,Chile,CL,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-22,Germany,DE,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-07-22,Finland,FI,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-07-22,United Kingdom,GB,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-07-22,United Kingdom,GB,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-07-22,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-07-22,Israel,IL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.5
+2016-07-22,Italy,IT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-22,Japan,JP,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-07-22,Japan,JP,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.4
+2016-07-22,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-07-22,Philippines,PH,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-22,Romania,RO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-07-22,Serbia,RS,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-07-22,Russia,RU,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-22,El Salvador,SV,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-07-22,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-07-22,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,17,10,1.7
+2016-07-22,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,3.1
+2016-07-22,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-22,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,58,36,1.6
+2016-07-23,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-23,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.0
+2016-07-23,Canada,CA,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.8
+2016-07-23,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.8
+2016-07-23,United Kingdom,GB,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-23,United Kingdom,GB,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.0
+2016-07-23,Iceland,IS,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-07-23,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-07-23,Singapore,SG,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.7
+2016-07-23,Turkey,TR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7
+2016-07-23,Taiwan,TW,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.4
+2016-07-23,United States,US,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,8,1.4
+2016-07-23,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,3,1.8
+2016-07-23,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,19,8,2.4
+2016-07-23,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-07-23,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-07-23,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,61,29,2.1
+2016-07-23,United States,US,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-23,South Africa,ZA,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.4
+2016-07-24,Austria,AT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-07-24,Czechia,CZ,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-07-24,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-24,Germany,DE,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-24,Denmark,DK,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-07-24,Spain,ES,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7
+2016-07-24,Finland,FI,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.5
+2016-07-24,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-07-24,United Kingdom,GB,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.8
+2016-07-24,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-07-24,India,IN,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-24,Italy,IT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-24,Mauritius,MU,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4
+2016-07-24,Netherlands,NL,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-24,New Zealand,NZ,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-24,Philippines,PH,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-24,Poland,PL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1
+2016-07-24,Turkey,TR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-24,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,9,1.6
+2016-07-24,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,4,2.3
+2016-07-24,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,5,2.8
+2016-07-24,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-24,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,63,37,1.7
+2016-07-25,Australia,AU,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-25,Bahrain,BH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.2
+2016-07-25,Canada,CA,YouTube advertising,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,98,51,1.9
+2016-07-25,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-07-25,Canada,CA,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.4
+2016-07-25,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-07-25,Germany,DE,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-25,Denmark,DK,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-25,Denmark,DK,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-07-25,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-25,Indonesia,ID,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-07-25,South Korea,KR,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-07-25,Morocco,MA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-07-25,Morocco,MA,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-25,Moldova,MD,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-25,Netherlands,NL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6
+2016-07-25,Norway,NO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.2
+2016-07-25,Philippines,PH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.4
+2016-07-25,Russia,RU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-07-25,Russia,RU,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-25,United States,US,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.6
+2016-07-25,United States,US,YouTube advertising,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,114,63,1.8
+2016-07-25,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,3.2
+2016-07-25,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,46,17,2.7
+2016-07-25,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.4
+2016-07-25,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-25,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,19,13,1.5
+2016-07-25,United States,US,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-07-25,United States,US,Playlists,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-07-26,Argentina,AR,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-26,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-07-26,Canada,CA,YouTube advertising,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,161,54,3.0
+2016-07-26,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,19,2,9.6
+2016-07-26,Canada,CA,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-07-26,Canada,CA,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-07-26,Switzerland,CH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-07-26,Denmark,DK,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-07-26,Denmark,DK,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-26,France,FR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.0
+2016-07-26,Georgia,GE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-07-26,Greece,GR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-26,Iceland,IS,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.3
+2016-07-26,Italy,IT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.9
+2016-07-26,Mexico,MX,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4
+2016-07-26,Pakistan,PK,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-26,Singapore,SG,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-07-26,United States,US,YouTube advertising,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,7,1.3
+2016-07-26,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,6,1.5
+2016-07-26,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,5,1.1
+2016-07-26,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-07-26,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,27,17,1.6
+2016-07-26,Vietnam,VN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-07-27,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-27,Canada,CA,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-27,Canada,CA,YouTube advertising,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,316,120,2.6
+2016-07-27,Canada,CA,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,5,1.6
+2016-07-27,Canada,CA,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.8
+2016-07-27,Switzerland,CH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-07-27,Colombia,CO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-27,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-07-27,Ecuador,EC,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,1,7.6
+2016-07-27,Finland,FI,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-27,United Kingdom,GB,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-27,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.3
+2016-07-27,India,IN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-07-27,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-27,Netherlands,NL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-07-27,Netherlands,NL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-07-27,New Zealand,NZ,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-07-27,Portugal,PT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-27,Sweden,SE,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-07-27,United States,US,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,3,1.7
+2016-07-27,United States,US,YouTube advertising,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,38,14,2.7
+2016-07-27,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,5,0.6
+2016-07-27,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,22,16,1.4
+2016-07-27,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,4,1.1
+2016-07-27,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,5,1.3
+2016-07-27,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,25,17,1.5
+2016-07-27,United States,US,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-07-27,United States,US,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.9
+2016-07-27,United States,US,Playlist page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-07-28,Argentina,AR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.3
+2016-07-28,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7
+2016-07-28,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-28,Canada,CA,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-07-28,Canada,CA,YouTube advertising,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,39,22,1.8
+2016-07-28,Canada,CA,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,3.8
+2016-07-28,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.8
+2016-07-28,Chile,CL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-28,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-28,Denmark,DK,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-07-28,Denmark,DK,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-28,Spain,ES,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-28,France,FR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-28,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-07-28,Hong Kong,HK,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-28,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-28,Indonesia,ID,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.4
+2016-07-28,India,IN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-07-28,Malta,MT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-28,Mauritius,MU,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.1
+2016-07-28,Mexico,MX,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-28,Peru,PE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-07-28,Portugal,PT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-28,Sweden,SE,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-07-28,Singapore,SG,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-07-28,Taiwan,TW,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-28,United States,US,YouTube advertising,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1
+2016-07-28,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6
+2016-07-28,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,18,13,1.4
+2016-07-28,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,5,1.8
+2016-07-28,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-07-28,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,5,2.9
+2016-07-28,Vietnam,VN,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5
+2016-07-28,Vanuatu,VU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-29,Austria,AT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.4
+2016-07-29,Australia,AU,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-29,Switzerland,CH,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.8
+2016-07-29,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-29,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.5
+2016-07-29,India,IN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,3,0.9
+2016-07-29,Japan,JP,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-29,Malta,MT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-29,Norway,NO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.0
+2016-07-29,Romania,RO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-07-29,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-29,Ukraine,UA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-29,United States,US,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4
+2016-07-29,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-07-29,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,4,2.7
+2016-07-29,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,5,0.4
+2016-07-29,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-07-29,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,4,2.5
+2016-07-29,Venezuela,VE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-07-30,Argentina,AR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.6
+2016-07-30,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-07-30,Canada,CA,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.7
+2016-07-30,Switzerland,CH,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-30,Germany,DE,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5
+2016-07-30,Denmark,DK,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-07-30,Ecuador,EC,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.4
+2016-07-30,United Kingdom,GB,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-07-30,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4
+2016-07-30,United Kingdom,GB,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-07-30,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,5,1.4
+2016-07-30,Israel,IL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-07-30,India,IN,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-07-30,India,IN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.1
+2016-07-30,Japan,JP,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-07-30,Nigeria,NG,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4
+2016-07-30,Netherlands,NL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-30,Norway,NO,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-07-30,Philippines,PH,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-07-30,Russia,RU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5
+2016-07-30,Saudi Arabia,SA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,4,0.4
+2016-07-30,Singapore,SG,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-30,Taiwan,TW,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-07-30,Taiwan,TW,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-07-30,United States,US,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,5,0.7
+2016-07-30,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,5,1.0
+2016-07-30,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,66,24,2.7
+2016-07-30,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,8,1.2
+2016-07-30,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,5,0.8
+2016-07-30,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,5,1.6
+2016-07-30,United States,US,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-07-31,Australia,AU,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.2
+2016-07-31,Belgium,BE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-31,Canada,CA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.2
+2016-07-31,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.1
+2016-07-31,Canada,CA,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-07-31,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-31,Spain,ES,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-31,Spain,ES,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-31,France,FR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-07-31,United Kingdom,GB,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-07-31,Hungary,HU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-07-31,India,IN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2
+2016-07-31,Italy,IT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.0
+2016-07-31,South Korea,KR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-07-31,Lithuania,LT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-07-31,Mexico,MX,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-31,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-07-31,Poland,PL,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-07-31,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-31,Sweden,SE,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-07-31,Tunisia,TN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-07-31,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,6,1.9
+2016-07-31,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,7,0.5
+2016-07-31,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.6
+2016-07-31,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,3,3.1
+2016-08-01,Argentina,AR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-01,Austria,AT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.5
+2016-08-01,Australia,AU,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.5
+2016-08-01,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4
+2016-08-01,Bahrain,BH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-01,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.1
+2016-08-01,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-08-01,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-08-01,Spain,ES,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-01,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.9
+2016-08-01,India,IN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-08-01,Mauritius,MU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.8
+2016-08-01,Philippines,PH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-01,Philippines,PH,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-01,Saudi Arabia,SA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.9
+2016-08-01,Sweden,SE,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-01,Thailand,TH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-01,Turkey,TR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-01,Taiwan,TW,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.3
+2016-08-01,United States,US,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.5
+2016-08-01,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-01,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,4,2.3
+2016-08-01,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,5,0.6
+2016-08-01,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,4,2.4
+2016-08-01,United States,US,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-01,South Africa,ZA,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-02,Argentina,AR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-02,Bolivia,BO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-02,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.5
+2016-08-02,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-02,Estonia,EE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-02,United Kingdom,GB,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-08-02,United Kingdom,GB,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-08-02,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-02,Hong Kong,HK,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-02,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,4,0.8
+2016-08-02,Indonesia,ID,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-02,Morocco,MA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-02,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7
+2016-08-02,Norway,NO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-08-02,Peru,PE,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.5
+2016-08-02,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-08-02,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5
+2016-08-02,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,5,1.6
+2016-08-02,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,3,3.8
+2016-08-02,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,2.0
+2016-08-02,Vietnam,VN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.6
+2016-08-03,Belgium,BE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-08-03,Chile,CL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-03,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-03,Finland,FI,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-03,France,FR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-03,Hungary,HU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-03,India,IN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-03,India,IN,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-08-03,Japan,JP,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-03,Namibia,NA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-03,Pakistan,PK,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-03,Poland,PL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.3
+2016-08-03,Saudi Arabia,SA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-03,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-03,Thailand,TH,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-08-03,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.1
+2016-08-03,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-03,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-04,Argentina,AR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-04,Australia,AU,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.5
+2016-08-04,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-08-04,Bangladesh,BD,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-04,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,4,0.2
+2016-08-04,Germany,DE,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-04,Spain,ES,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-04,United Kingdom,GB,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-08-04,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,3,0.8
+2016-08-04,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,2,4.3
+2016-08-04,Israel,IL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-08-04,Mauritius,MU,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-08-04,Malaysia,MY,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-04,Philippines,PH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-04,Saudi Arabia,SA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7
+2016-08-04,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,4,1.1
+2016-08-04,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,2,4.3
+2016-08-04,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.7
+2016-08-04,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,4,1.3
+2016-08-04,United States,US,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.6
+2016-08-04,United States,US,Playlists,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.8
+2016-08-05,Brunei,BN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1
+2016-08-05,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-05,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-05,Egypt,EG,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-05,France,FR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-05,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-08-05,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-05,India,IN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-08-05,Italy,IT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-05,Italy,IT,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-05,Lithuania,LT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,4.0
+2016-08-05,Mexico,MX,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-05,Malaysia,MY,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-08-05,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.3
+2016-08-05,Netherlands,NL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.8
+2016-08-05,Norway,NO,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-05,Peru,PE,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-05,Peru,PE,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,3.0
+2016-08-05,Peru,PE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-05,Singapore,SG,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-05,Ukraine,UA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-05,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,18,7,2.6
+2016-08-05,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,6,1.0
+2016-08-05,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6
+2016-08-05,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,5,1.5
+2016-08-05,United States,US,Other YouTube features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.0
+2016-08-05,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,19,13,1.5
+2016-08-06,Brazil,BR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-06,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-06,Denmark,DK,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-06,Algeria,DZ,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-06,Finland,FI,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-06,United Kingdom,GB,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,7,0.8
+2016-08-06,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.5
+2016-08-06,United Kingdom,GB,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-08-06,Greece,GR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-08-06,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-06,Indonesia,ID,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-06,Italy,IT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-08-06,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-06,Netherlands,NL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-06,Norway,NO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-06,Philippines,PH,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.5
+2016-08-06,Poland,PL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-06,Romania,RO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-08-06,Russia,RU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-06,Turkey,TR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-08-06,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,3,1.3
+2016-08-06,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,19,17,1.1
+2016-08-06,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,7,1.0
+2016-08-06,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,3,2.2
+2016-08-06,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,30,12,2.5
+2016-08-06,United States,US,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-08-06,United States,US,Playlists,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-06,United States,US,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6
+2016-08-06,United States,US,Playlist page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-08-06,Vietnam,VN,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-08-07,United Arab Emirates,AE,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-08-07,Belarus,BY,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-08-07,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-07,Canada,CA,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-08-07,Switzerland,CH,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.3
+2016-08-07,Chile,CL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-07,Czechia,CZ,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.5
+2016-08-07,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.0
+2016-08-07,Ecuador,EC,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-07,Spain,ES,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-07,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-07,Mexico,MX,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.9
+2016-08-07,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-08-07,Tunisia,TN,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-07,Taiwan,TW,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-07,United States,US,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-08-07,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-07,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2
+2016-08-07,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,4,1.9
+2016-08-07,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-08-07,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,2.2
+2016-08-08,United Arab Emirates,AE,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-08-08,Austria,AT,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-08-08,Australia,AU,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-08,Canada,CA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7
+2016-08-08,Czechia,CZ,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.8
+2016-08-08,Germany,DE,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-08,Israel,IL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-08,Italy,IT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-08-08,Myanmar (Burma),MM,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-08,Peru,PE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-08,Poland,PL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-08,Saudi Arabia,SA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-08,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.6
+2016-08-08,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,17,6,2.8
+2016-08-08,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,4,1.1
+2016-08-08,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7
+2016-08-08,Vietnam,VN,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0
+2016-08-09,Canada,CA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.4
+2016-08-09,Canada,CA,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-09,Costa Rica,CR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.4
+2016-08-09,Germany,DE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-08-09,Dominican Republic,DO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-09,Dominican Republic,DO,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-09,Egypt,EG,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-09,Finland,FI,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-08-09,France,FR,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-09,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-08-09,Indonesia,ID,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-09,Israel,IL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-09,Japan,JP,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.5
+2016-08-09,Morocco,MA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-08-09,Mexico,MX,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.7
+2016-08-09,Netherlands,NL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-09,Portugal,PT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-09,Saudi Arabia,SA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-08-09,Thailand,TH,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-09,Turkey,TR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-09,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.4
+2016-08-09,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,3,1.7
+2016-08-09,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.9
+2016-08-09,United States,US,Notifications,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-09,Unknown Region,ZZ,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-10,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-08-10,Australia,AU,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-08-10,Canada,CA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,3.8
+2016-08-10,Denmark,DK,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-10,Denmark,DK,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.3
+2016-08-10,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-08-10,United Kingdom,GB,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-10,Guatemala,GT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-10,Morocco,MA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1
+2016-08-10,Pakistan,PK,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-10,Portugal,PT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-08-10,Romania,RO,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-08-10,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.8
+2016-08-10,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,3,2.7
+2016-08-10,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,5,2.4
+2016-08-10,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.1
+2016-08-10,Vanuatu,VU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-11,Finland,FI,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-11,France,FR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-11,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.9
+2016-08-11,Hungary,HU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-11,Indonesia,ID,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1
+2016-08-11,Israel,IL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-11,Italy,IT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-11,Lithuania,LT,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-08-11,Netherlands,NL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-11,Peru,PE,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-11,Philippines,PH,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-11,Poland,PL,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-11,Romania,RO,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-08-11,Serbia,RS,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-11,Saudi Arabia,SA,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-08-11,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5
+2016-08-11,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.9
+2016-08-11,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,5,0.9
+2016-08-11,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,18,10,1.8
+2016-08-11,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,3,3.1
+2016-08-11,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.9
+2016-08-11,United States,US,Video cards and annotations,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-11,United States,US,Playlist page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.5
+2016-08-12,Canada,CA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-08-12,Chile,CL,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-12,France,FR,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-08-12,United Kingdom,GB,Direct or unknown,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,4,0.1
+2016-08-12,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-12,Hungary,HU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-12,Indonesia,ID,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-08-12,Norway,NO,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-12,Norway,NO,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-08-12,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-12,Taiwan,TW,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-12,United States,US,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-12,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6
+2016-08-12,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.1
+2016-08-12,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-12,United States,US,External,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-12,United States,US,Playlist page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.2
+2016-08-13,Australia,AU,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5
+2016-08-13,Canada,CA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,1,8.0
+2016-08-13,Czechia,CZ,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-08-13,Finland,FI,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.9
+2016-08-13,United Kingdom,GB,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.0
+2016-08-13,United Kingdom,GB,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.7
+2016-08-13,Indonesia,ID,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.7
+2016-08-13,Japan,JP,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-08-13,Malaysia,MY,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-08-13,Malaysia,MY,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.0
+2016-08-13,Sweden,SE,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-13,United States,US,Channel pages,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,17,8,2.1
+2016-08-13,United States,US,YouTube search,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.1
+2016-08-13,United States,US,Suggested videos,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,4,1.4
+2016-08-13,South Africa,ZA,Browse features,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4

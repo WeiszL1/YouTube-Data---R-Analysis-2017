@@ -1,0 +1,293 @@
+---
+title: "FinalProj_Report"
+author: "Louis Weisz"
+date: "December 18, 2017"
+output: 
+  html_document:
+    code_folding: hide
+---
+
+```{r, library imports, include=FALSE}
+library(ggplot2)
+library(dplyr)
+library(boot)
+library(Hmisc)
+library(knitr)
+library(readr)
+library(ggthemes)
+library(xtable)
+library(pander)
+library(car)
+```
+
+```{r, read in data, include = FALSE}
+
+# "wt" series for "Watch Time"
+wt1 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160613.20160713.UN001.watch_time.csv", col_names = TRUE)
+wt2 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160713.20160813.UN001.watch_time.csv", col_names = TRUE)
+wt3 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160813.20160913.UN001.watch_time.csv", col_names = TRUE)
+wt4 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160913.20161013.UN001.watch_time.csv", col_names = TRUE)
+wt5 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161013.20161112.UN001.watch_time.csv", col_names = TRUE)
+wt6 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161112.20161212.UN001.watch_time.csv", col_names = TRUE)
+wt7 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161212.20170112.UN001.watch_time.csv", col_names = TRUE)
+wt8 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170112.20170212.UN001.watch_time.csv", col_names = TRUE)
+wt9 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170212.20170312.UN001.watch_time.csv", col_names = TRUE)
+wt10 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170312.20170412.UN001.watch_time.csv", col_names = TRUE)
+wt11 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170412.20170512.UN001.watch_time.csv", col_names = TRUE)
+wt12 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170512.20170612.UN001.watch_time.csv", col_names = TRUE)
+wt13 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170612.20170712.UN001.watch_time.csv", col_names = TRUE)
+wt14 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170712.20170812.UN001.watch_time.csv", col_names = TRUE)
+wt15 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170812.20170912.UN001.watch_time.csv", col_names = TRUE)
+wt16 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170912.20171012.UN001.watch_time.csv", col_names = TRUE)
+wt17 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20171012.20171111.UN001.watch_time.csv", col_names = TRUE)
+
+# "pl" series for "Playback Location"
+pl1 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160613.20160713.UN001.playback_location.csv", col_names = TRUE)
+pl2 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160713.20160813.UN001.playback_location.csv", col_names = TRUE)
+pl3 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160813.20160913.UN001.playback_location.csv", col_names = TRUE)
+pl4 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160913.20161013.UN001.playback_location.csv", col_names = TRUE)
+pl5 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161013.20161112.UN001.playback_location.csv", col_names = TRUE)
+pl6 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161112.20161212.UN001.playback_location.csv", col_names = TRUE)
+pl7 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161212.20170112.UN001.playback_location.csv", col_names = TRUE)
+pl8 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170112.20170212.UN001.playback_location.csv", col_names = TRUE)
+pl9 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170212.20170312.UN001.playback_location.csv", col_names = TRUE)
+pl10 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170312.20170412.UN001.playback_location.csv", col_names = TRUE)
+pl11 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170412.20170512.UN001.playback_location.csv", col_names = TRUE)
+pl12 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170512.20170612.UN001.playback_location.csv", col_names = TRUE)
+pl13 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170612.20170712.UN001.playback_location.csv", col_names = TRUE)
+pl14 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170712.20170812.UN001.playback_location.csv", col_names = TRUE)
+pl15 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170812.20170912.UN001.playback_location.csv", col_names = TRUE)
+pl16 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170912.20171012.UN001.playback_location.csv", col_names = TRUE)
+pl17 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20171012.20171111.UN001.playback_location.csv", col_names = TRUE)
+
+# "ts" series for "Traffic Source"
+ts1 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160613.20160713.UN001.traffic_source.csv", col_names = TRUE)
+ts2 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160713.20160813.UN001.traffic_source.csv", col_names = TRUE)
+ts3 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160813.20160913.UN001.traffic_source.csv", col_names = TRUE)
+ts4 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160913.20161013.UN001.traffic_source.csv", col_names = TRUE)
+ts5 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161013.20161112.UN001.traffic_source.csv", col_names = TRUE)
+ts6 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161112.20161212.UN001.traffic_source.csv", col_names = TRUE)
+ts7 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161212.20170112.UN001.traffic_source.csv", col_names = TRUE)
+ts8 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170112.20170212.UN001.traffic_source.csv", col_names = TRUE)
+ts9 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170212.20170312.UN001.traffic_source.csv", col_names = TRUE)
+ts10 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170312.20170412.UN001.traffic_source.csv", col_names = TRUE)
+ts11 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170412.20170512.UN001.traffic_source.csv", col_names = TRUE)
+ts12 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170512.20170612.UN001.traffic_source.csv", col_names = TRUE)
+ts13 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170612.20170712.UN001.traffic_source.csv", col_names = TRUE)
+ts14 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170712.20170812.UN001.traffic_source.csv", col_names = TRUE)
+ts15 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170812.20170912.UN001.traffic_source.csv", col_names = TRUE)
+ts16 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170912.20171012.UN001.traffic_source.csv", col_names = TRUE)
+ts17 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20171012.20171111.UN001.traffic_source.csv", col_names = TRUE)
+
+```
+
+
+```{r, include=FALSE}
+
+wt1_wt17 <- rbind(wt1, wt2, wt3, wt4, wt5, wt6, wt7, wt8, wt9, wt10, wt11, wt12, wt13, wt14, wt15, wt16, wt17)
+
+pl1_pl17 <- rbind(pl1, pl2, pl3, pl4, pl5, pl6, pl7, pl8, pl9, pl10, pl11, pl12, pl13, pl14, pl15, pl16, pl17)
+
+ts1_ts17 <- rbind(ts1, ts2, ts3, ts4, ts5, ts6, ts7, ts8, ts9, ts10, ts11, ts12, ts13, ts14, ts15, ts16, ts17)
+
+
+
+wt1_wt17 <- unique(wt1_wt17)
+
+pl1_pl17 <- unique(pl1_pl17)
+
+ts1_ts17 <- unique(ts1_ts17)
+
+
+netSubs <- wt1_wt17 %>%
+  select(date, country_name, views, subscribers_gained, subscribers_lost)
+
+
+wtpl1_wtpl17 <- right_join(wt1_wt17, pl1_pl17)
+all1_all17 <- right_join(wtpl1_wtpl17, ts1_ts17) %>%
+  group_by(date)
+
+rename(all1_all17, viewsTS = views)
+#viewsTS = views from a traffic source
+
+```
+
+```{r, include=FALSE}
+USAwt <- wt1_wt17 %>%
+  filter(country_name == "United States")
+
+big5 <- c("United States", "Canada", "United Kingdom", "Australia", "Germany")
+
+big5wt <- wt1_wt17 %>%
+  filter(country_name %in% big5)
+
+big5netSubs <- big5wt %>%
+  select(date, country_name, views, subscribers_gained, subscribers_lost)
+
+big4 <- c("Canada", "United Kingdom", "Australia", "Germany")
+
+big4wt <- wt1_wt17 %>%
+  filter(country_name %in% big4)
+
+
+big4sumViews <- big4wt%>%
+  group_by(country_name) %>%
+  summarise(TotalViews = sum(views))
+
+allsumviews <- wt1_wt17 %>%
+  group_by(country_name) %>%
+  summarise(TotalViews = sum(views))
+
+ASV150 <- allsumviews %>%
+  filter(TotalViews > 150) %>%
+  arrange(TotalViews)
+
+```
+
+#1) Introduction
+
+  This project is based upon data obtained from the youtube channel WeiszCracks, which I am the owner and curator of. All the data collected for this lab came from YouTube's analytics service, and was downloaded in the form of CSV files rather than accessed through an API. I intend to look at how I can predict gains in subscribers, and which variables are the most critical for that. In particular, I will compare the predictive accuracy of daily average viewer retention to the predictive accuracy of daily total views.
+
+
+#2) Ethical Consideration
+
+The stakeholder(s) here is mainly just me. While, yes, this information could be extrapolated out and genaralized for any channel, this information is going to stay as my own and I intend to use it for reference. So, my only ethical responsibility is to myself. This makes properly regulating data access much more simple than for some other data sets, and means that mistakes will only effect myself. 
+
+
+#3) Data Exploration
+
+I wanted to figure out what the best predictor of subscribers was for my youtube channel. Before I could do that, I needed to know where my views and subscribers were coming from.
+
+```{r}
+ggplot(ASV150, aes(TotalViews)) +
+  geom_histogram(binwidth = 400) +
+  ggtitle("Distribution of ASV150 Countries grouped by TotalViews")
+
+```
+
+While I had a hunch that most of my viewers and subscribers were from one location,this histogram confirmed that. As you can see, over half of my total worldwide views come from one location, which is (unsurprisingly) the United States. Since the discrepancy was so large, it made it hard to look at the data set as a whole, so I decided to just focus on the data from US viewers.
+
+
+
+```{r}
+ggplot(USAwt, aes(date, views)) +
+  geom_line() +
+  ggtitle("Views Over Time from US Viewers")
+
+```
+
+This graph demonstrates the daily view totals over time from June 2016 through November 2017. Notice the two large spikes -- these are videos that for whatever reason, were particularly successful. While interesting, they're not actually the best for the purposes of analysis and general subscription trends. Instead, I decided to focus on a time subset from January 1st, 2017 through March 31st, 2017. It's a period with relatively high activity, making for a good variety of data, but it lacks any major spikes, making it easier to analyze since it is more consistent. 
+
+
+
+#4) Statistical Analysis and Interpretation
+
+The main question I wanted to answer here was this: Between views and viewer retention, which is a better predictor of subscribers gained?
+
+I made a linear regression model for each.
+```{r}
+SubFromViews <- lm(subscribers_gained~views, USAwt)
+summary(SubFromViews)
+
+
+```
+
+This linear regression has Views as it's independent/predictor variable.
+
+
+```{r}
+SubFromRetention <- lm(subscribers_gained~average_view_duration, USAwt)
+summary(SubFromRetention)
+
+
+```
+
+This linear regression has average view duration as it's independent/predictor variable.
+
+Both regression models give essentially the same information, based upon different independent/predictor variables. While technically both are significantly correlated, since both have a p-value that is less that 0.5, the p-value of the view-based model is significantly lower. In addition we can see from the r-squared values that, while in the view-based model over 92% of the variability in Subscribers Gained is shared with the variability in the number of Views, for the retention-based model that shared variability is much, much smaller. 
+
+
+```{r}
+USAwt0101_0331 <- USAwt %>%
+  filter(date > "2017-01-01") %>%
+  filter(date < "2017-03-31")
+
+bivReg2 <- lm(subscribers_gained~views, USAwt0101_0331)
+USAwtbivReg2 <- mutate(USAwt0101_0331, resid=resid(bivReg2)) 
+
+ggplot(USAwt0101_0331, aes(views)) +
+  geom_histogram(binwidth = 7) +
+  ggtitle("Distribution of Daily Totals of Views for the 3-month period between Jan 1-Mar 31 2017")
+
+USAwtbivReg2%>%
+  ggplot(aes(resid))+
+  geom_histogram(color="blue",fill="red",bins=30)+
+  labs(x= "Residual", title= "Frequency of residuals for Subscribers Gained and Views")
+
+```
+
+
+
+
+```{r}
+USAwtbivReg2%>%
+  ggplot(aes(views,resid))+
+  geom_point()+
+  geom_smooth(method = lm)
+
+
+
+```
+
+
+
+
+```{r}
+bivReg3 <- lm(subscribers_gained~average_view_duration, USAwt0101_0331)
+USAwtbivReg3 <- mutate(USAwt0101_0331, resid=resid(bivReg3)) 
+
+ggplot(USAwt0101_0331, aes(average_view_duration)) +
+  geom_histogram(binwidth = .1) +
+  ggtitle("Distribution of Daily Averages of Retention Time for the 3-month period between Jan 1-Mar 31 2017")
+
+USAwtbivReg3%>%
+  ggplot(aes(resid))+
+  geom_histogram(color="blue",fill="red",bins=30)+
+  labs(x= "Residual", title= "Frequency of residuals for Subscribers Gained and Average View Duration")
+
+```
+
+
+
+```{r}
+USAwtbivReg3%>%
+  ggplot(aes(average_view_duration,resid))+
+  geom_point()+
+  geom_smooth(method = lm)
+
+
+```
+
+
+These visuals merely serve to re-iterate what was stated in the models above. While, yes, both can be used to predict a gain in subscriptions, we can see by comparing the regression histograms that the distribution is much more normal when looking at a view-based model, as compared to a retention-based model. The scatterplots tell us the same information.
+In general, when attempting to predict a gain in subscriptions, using a view-based model tends to be more accurate.
+
+
+
+#5) Conclusions
+
+
+This data tells us that Subscriber Gains are better predicted by Daily View totals, than by Daily Viewer Retention values. While useful, we are limited by the amount and frequency of data that is available. A data set from a larger channel with less day-to-day variability in viewership would be more consistent, and even the usage of youtube's analytics API would be more accurate and up-to-date, since I'd be able to log data on custom intervals and in real time. I think that in the future, it would be wise to explore these two options, as well as to look into other variables that could potentially be better predictors of subscriber gains.
+
+
+
+
+
+
+
+
+
+
+
+
+

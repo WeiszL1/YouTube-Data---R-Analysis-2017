@@ -1,0 +1,452 @@
+date,country_name,country_id,playback_location,channel_display_name,channel_id,watch_time_minutes,views,average_view_duration
+2016-08-13,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5
+2016-08-13,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,1,8.0
+2016-08-13,Czechia,CZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-08-13,Finland,FI,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.9
+2016-08-13,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,4,0.4
+2016-08-13,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.7
+2016-08-13,Japan,JP,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-08-13,Malaysia,MY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4
+2016-08-13,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-13,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,24,14,1.7
+2016-08-13,South Africa,ZA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-14,Argentina,AR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-14,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.5
+2016-08-14,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-08-14,Czechia,CZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-08-14,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.6
+2016-08-14,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2
+2016-08-14,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,2.1
+2016-08-14,Sri Lanka,LK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.0
+2016-08-14,Latvia,LV,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-08-14,Mexico,MX,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,4,0.6
+2016-08-14,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-08-14,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-14,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-14,Slovakia,SK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-14,Thailand,TH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-14,Turkey,TR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-14,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,5,1.3
+2016-08-15,Austria,AT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-15,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-15,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-15,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.8
+2016-08-15,Czechia,CZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-08-15,Algeria,DZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.2
+2016-08-15,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-15,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-08-15,United Kingdom,GB,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.3
+2016-08-15,Israel,IL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.6
+2016-08-15,India,IN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-15,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-15,Latvia,LV,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-08-15,Morocco,MA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-15,Malaysia,MY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-15,Netherlands,NL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,3,2.3
+2016-08-15,Portugal,PT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-15,Serbia,RS,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,3,2.7
+2016-08-15,Serbia,RS,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-08-15,Saudi Arabia,SA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-08-15,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,9,1.5
+2016-08-15,South Africa,ZA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,3.8
+2016-08-16,United Arab Emirates,AE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-08-16,Argentina,AR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2
+2016-08-16,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-08-16,Bangladesh,BD,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-08-16,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-16,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-16,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1
+2016-08-16,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.3
+2016-08-16,Croatia,HR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.5
+2016-08-16,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-16,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.6
+2016-08-16,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-08-16,Slovakia,SK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-16,Ukraine,UA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-16,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,9,1.6
+2016-08-16,South Africa,ZA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,2,4.4
+2016-08-17,Austria,AT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-17,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.8
+2016-08-17,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,19,5,3.8
+2016-08-17,Czechia,CZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-17,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-08-17,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.7
+2016-08-17,Ireland,IE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-17,Netherlands,NL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3
+2016-08-17,Saudi Arabia,SA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-08-17,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,18,10,1.8
+2016-08-17,United States,US,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-18,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,4.2
+2016-08-18,Belgium,BE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-08-18,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.9
+2016-08-18,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,1,8.4
+2016-08-18,Czechia,CZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-18,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,3,0.1
+2016-08-18,Denmark,DK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-18,Algeria,DZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-08-18,Hong Kong,HK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,6,1.2
+2016-08-18,Hong Kong,HK,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1
+2016-08-18,Singapore,SG,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-08-18,Ukraine,UA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-08-18,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,20,14,1.4
+2016-08-18,United States,US,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.9
+2016-08-19,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0
+2016-08-19,Australia,AU,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-19,Bulgaria,BG,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-19,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,16,3,5.4
+2016-08-19,Switzerland,CH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.6
+2016-08-19,Costa Rica,CR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-19,Czechia,CZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-08-19,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4
+2016-08-19,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.6
+2016-08-19,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.4
+2016-08-19,Hungary,HU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-19,Ireland,IE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-08-19,Lebanon,LB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-19,Mexico,MX,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-19,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-19,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,34,27,1.2
+2016-08-19,United States,US,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.0
+2016-08-19,Uruguay,UY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-19,South Africa,ZA,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-20,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-20,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-20,France,FR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,3.0
+2016-08-20,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,3,1.7
+2016-08-20,India,IN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.4
+2016-08-20,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-20,Netherlands,NL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.6
+2016-08-20,Norway,NO,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-20,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.9
+2016-08-20,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-08-20,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.3
+2016-08-20,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,15,1.0
+2016-08-20,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-21,Argentina,AR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-21,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4
+2016-08-21,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,25,5,5.0
+2016-08-21,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-08-21,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.0
+2016-08-21,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-08-21,Iraq,IQ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-21,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3
+2016-08-21,Morocco,MA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5
+2016-08-21,Netherlands,NL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-21,New Zealand,NZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-21,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,2,5.3
+2016-08-21,Saudi Arabia,SA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0
+2016-08-21,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,34,13,2.6
+2016-08-21,United States,US,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.8
+2016-08-21,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-22,Belgium,BE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-08-22,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.2
+2016-08-22,Czechia,CZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-22,Denmark,DK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.1
+2016-08-22,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-22,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-22,South Korea,KR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9
+2016-08-22,Mexico,MX,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3
+2016-08-22,Netherlands,NL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-22,New Zealand,NZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-22,Romania,RO,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.8
+2016-08-22,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7
+2016-08-22,Singapore,SG,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-08-22,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,25,16,1.6
+2016-08-23,Bulgaria,BG,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-23,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-23,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,5,2.0
+2016-08-23,Switzerland,CH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6
+2016-08-23,Colombia,CO,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-23,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,3,1.4
+2016-08-23,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-23,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.5
+2016-08-23,India,IN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-08-23,Jordan,JO,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-23,Norway,NO,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-08-23,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6
+2016-08-23,Russia,RU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-23,Saudi Arabia,SA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.7
+2016-08-23,Slovakia,SK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-23,Turkey,TR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.9
+2016-08-23,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,51,26,2.0
+2016-08-23,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-24,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.3
+2016-08-24,Brunei,BN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-24,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-24,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-24,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-08-24,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,1.9
+2016-08-24,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-08-24,India,IN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-08-24,Mexico,MX,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-24,Thailand,TH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-24,Trinidad & Tobago,TT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-24,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,25,15,1.7
+2016-08-24,South Africa,ZA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-25,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-25,Belgium,BE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-25,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5
+2016-08-25,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1
+2016-08-25,Switzerland,CH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.9
+2016-08-25,Chile,CL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.8
+2016-08-25,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-25,Finland,FI,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.9
+2016-08-25,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-25,Israel,IL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-08-25,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-25,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,13,9,1.5
+2016-08-25,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-26,Belgium,BE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-26,Bahrain,BH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-26,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-26,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-26,Finland,FI,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-08-26,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-08-26,India,IN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-08-26,Malaysia,MY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-08-26,Nepal,NP,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-08-26,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-26,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-26,Thailand,TH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.2
+2016-08-26,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,44,18,2.4
+2016-08-27,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-27,Canada,CA,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-08-27,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-08-27,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.6
+2016-08-27,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-27,Lithuania,LT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.3
+2016-08-27,Malaysia,MY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.0
+2016-08-27,El Salvador,SV,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-27,Thailand,TH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-27,Turkey,TR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-27,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,45,19,2.4
+2016-08-28,Austria,AT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-28,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-08-28,Chile,CL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-28,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-28,Estonia,EE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-28,France,FR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.4
+2016-08-28,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-28,Guatemala,GT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.0
+2016-08-28,India,IN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9
+2016-08-28,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-08-28,Mexico,MX,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4
+2016-08-28,Norway,NO,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-08-28,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-28,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.5
+2016-08-28,Singapore,SG,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-08-28,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,49,28,1.7
+2016-08-28,United States,US,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-29,Argentina,AR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-29,Austria,AT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-29,Belgium,BE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-29,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-08-29,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.6
+2016-08-29,Switzerland,CH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-08-29,Chile,CL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-29,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-08-29,Denmark,DK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-08-29,Finland,FI,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.9
+2016-08-29,France,FR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-29,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.0
+2016-08-29,Netherlands,NL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-29,Papua New Guinea,PG,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-29,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-29,Saudi Arabia,SA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-29,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-29,Thailand,TH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-08-29,Turkey,TR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-08-29,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,23,10,2.3
+2016-08-29,United States,US,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-08-30,Austria,AT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-08-30,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-08-30,Switzerland,CH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-08-30,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-30,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2
+2016-08-30,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-30,Malaysia,MY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-08-30,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-08-30,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-08-30,Slovenia,SI,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-08-30,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,45,24,1.9
+2016-08-31,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-31,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-31,Switzerland,CH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-31,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-31,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-08-31,United Kingdom,GB,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-08-31,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.7
+2016-08-31,Japan,JP,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.5
+2016-08-31,South Korea,KR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.2
+2016-08-31,Netherlands,NL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-08-31,Thailand,TH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.2
+2016-08-31,Turkey,TR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1
+2016-08-31,Trinidad & Tobago,TT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-08-31,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,8,1.9
+2016-09-01,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,3,3.2
+2016-09-01,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.5
+2016-09-01,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-09-01,Denmark,DK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-09-01,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6
+2016-09-01,Hong Kong,HK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6
+2016-09-01,Croatia,HR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-09-01,Hungary,HU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.4
+2016-09-01,India,IN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-09-01,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-09-01,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0
+2016-09-01,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-09-01,Portugal,PT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9
+2016-09-01,Singapore,SG,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.5
+2016-09-01,Slovenia,SI,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-09-01,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,59,24,2.5
+2016-09-01,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0
+2016-09-02,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-09-02,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,3,2.6
+2016-09-02,Chile,CL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7
+2016-09-02,Czechia,CZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-09-02,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.3
+2016-09-02,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4
+2016-09-02,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,4,1.3
+2016-09-02,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.7
+2016-09-02,Israel,IL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.4
+2016-09-02,Lithuania,LT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-09-02,Serbia,RS,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-09-02,Turkey,TR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-09-02,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,23,14,1.7
+2016-09-03,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.3
+2016-09-03,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-09-03,Dominican Republic,DO,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-09-03,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6
+2016-09-03,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-09-03,Ireland,IE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-09-03,South Korea,KR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-09-03,Netherlands,NL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-09-03,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-09-03,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,39,19,2.1
+2016-09-03,South Africa,ZA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-09-04,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.4
+2016-09-04,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.3
+2016-09-04,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.9
+2016-09-04,Denmark,DK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-09-04,Estonia,EE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.4
+2016-09-04,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,3,0.9
+2016-09-04,Indonesia,ID,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-09-04,India,IN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9
+2016-09-04,Japan,JP,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-09-04,Mexico,MX,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.2
+2016-09-04,Malaysia,MY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-09-04,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-09-04,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.3
+2016-09-04,Singapore,SG,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-09-04,Turkey,TR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-09-04,Ukraine,UA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.3
+2016-09-04,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,21,16,1.3
+2016-09-04,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-09-04,Vietnam,VN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-09-05,Argentina,AR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-09-05,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.9
+2016-09-05,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-09-05,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,13,4,3.3
+2016-09-05,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-09-05,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6
+2016-09-05,United Kingdom,GB,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.0
+2016-09-05,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-09-05,Luxembourg,LU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.8
+2016-09-05,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.6
+2016-09-05,Saudi Arabia,SA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-09-05,Ukraine,UA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-09-05,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,4,3.1
+2016-09-06,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.1
+2016-09-06,Belgium,BE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-09-06,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-09-06,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,5,2.3
+2016-09-06,Switzerland,CH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-09-06,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-09-06,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2
+2016-09-06,France,FR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.0
+2016-09-06,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-09-06,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.9
+2016-09-06,Italy,IT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.0
+2016-09-06,Malaysia,MY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-09-06,Romania,RO,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,4,0.3
+2016-09-06,Sweden,SE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.5
+2016-09-06,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,50,25,2.0
+2016-09-06,Vietnam,VN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-09-07,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6
+2016-09-07,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.1
+2016-09-07,Chile,CL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-09-07,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,5,2.3
+2016-09-07,France,FR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-09-07,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-09-07,Japan,JP,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2
+2016-09-07,South Korea,KR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1
+2016-09-07,Malaysia,MY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-09-07,Peru,PE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9
+2016-09-07,Turkey,TR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-09-07,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,19,12,1.6
+2016-09-07,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.3
+2016-09-08,Austria,AT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-09-08,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6
+2016-09-08,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,3.8
+2016-09-08,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,3,1.3
+2016-09-08,Denmark,DK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8
+2016-09-08,Spain,ES,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6
+2016-09-08,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-09-08,Hungary,HU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.4
+2016-09-08,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4
+2016-09-08,Japan,JP,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-09-08,Peru,PE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-09-08,Serbia,RS,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-09-08,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,37,16,2.3
+2016-09-09,Argentina,AR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5
+2016-09-09,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,5,1.9
+2016-09-09,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4
+2016-09-09,France,FR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4
+2016-09-09,Greece,GR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7
+2016-09-09,Indonesia,ID,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.3
+2016-09-09,Mexico,MX,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-09-09,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,76,39,1.9
+2016-09-09,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,3,1.2
+2016-09-10,Argentina,AR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4
+2016-09-10,Australia,AU,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.1
+2016-09-10,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,3.1
+2016-09-10,Finland,FI,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-09-10,France,FR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-09-10,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.9
+2016-09-10,Hong Kong,HK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-09-10,South Korea,KR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,3,0.1
+2016-09-10,Malaysia,MY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.0
+2016-09-10,Poland,PL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1
+2016-09-10,Thailand,TH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.3
+2016-09-10,Taiwan,TW,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-09-10,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,53,32,1.6
+2016-09-10,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,4,1.7
+2016-09-11,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.4
+2016-09-11,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-09-11,Netherlands,NL,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-09-11,Philippines,PH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3
+2016-09-11,Saudi Arabia,SA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.2
+2016-09-11,Thailand,TH,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2
+2016-09-11,Trinidad & Tobago,TT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0
+2016-09-11,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,37,21,1.8
+2016-09-11,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0
+2016-09-11,Uruguay,UY,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8
+2016-09-12,Austria,AT,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1
+2016-09-12,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.8
+2016-09-12,Netherlands,NL,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9
+2016-09-12,Slovakia,SK,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7
+2016-09-12,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,49,16,3.1
+2016-09-12,United States,US,Embedded in external websites and apps,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7
+2016-09-12,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.5
+2016-09-13,Brazil,BR,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8
+2016-09-13,Canada,CA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.5
+2016-09-13,Czechia,CZ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5
+2016-09-13,Germany,DE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6
+2016-09-13,United Kingdom,GB,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-09-13,India,IN,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.9
+2016-09-13,Iraq,IQ,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4
+2016-09-13,Japan,JP,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.0
+2016-09-13,Peru,PE,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-09-13,Saudi Arabia,SA,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0
+2016-09-13,United States,US,YouTube watch page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,23,11,2.1
+2016-09-13,United States,US,YouTube channel page,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1

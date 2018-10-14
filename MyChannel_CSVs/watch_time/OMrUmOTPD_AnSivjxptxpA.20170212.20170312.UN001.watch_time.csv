@@ -1,0 +1,559 @@
+date,country_name,country_id,channel_display_name,channel_id,watch_time_minutes,views,average_view_duration,comments,likes,dislikes,subscribers_gained,subscribers_lost
+2017-02-12,Austria,AT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2,0,0,0,0,0
+2017-02-12,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,22,5,4.5,0,0,0,0,0
+2017-02-12,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,16,3,5.2,0,0,0,0,0
+2017-02-12,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,21,10,2.1,0,0,0,0,0
+2017-02-12,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-02-12,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,17,8,2.1,0,0,0,0,1
+2017-02-12,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.2,0,0,0,0,1
+2017-02-12,Hungary,HU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.6,0,0,0,0,0
+2017-02-12,Ireland,IE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.3,0,0,0,0,0
+2017-02-12,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,3,5.1,0,0,0,0,0
+2017-02-12,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-02-12,Japan,JP,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4,0,0,0,0,0
+2017-02-12,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.9,0,0,0,0,0
+2017-02-12,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.6,0,0,0,0,0
+2017-02-12,Thailand,TH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0,0,0,0,0,0
+2017-02-12,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,83,25,3.3,0,2,0,1,1
+2017-02-13,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,5,3.0,0,0,0,0,0
+2017-02-13,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7,0,0,0,0,0
+2017-02-13,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,2,5.9,0,0,0,0,1
+2017-02-13,Costa Rica,CR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,4,0.9,0,0,0,0,0
+2017-02-13,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,3,1.6,0,0,0,0,0
+2017-02-13,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.1,0,0,0,0,0
+2017-02-13,Spain,ES,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-02-13,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,0,0,0,0,1
+2017-02-13,Indonesia,ID,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6,0,0,0,0,0
+2017-02-13,Ireland,IE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-13,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-13,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.5,0,0,0,0,0
+2017-02-13,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.7,0,0,0,0,0
+2017-02-13,Puerto Rico,PR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,5,1.0,0,0,0,0,0
+2017-02-13,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-02-13,Singapore,SG,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9,0,0,0,0,0
+2017-02-13,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,101,43,2.4,0,0,0,0,1
+2017-02-14,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,6,2.5,0,0,0,0,0
+2017-02-14,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,3,3.6,0,1,0,0,0
+2017-02-14,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5,0,0,0,0,0
+2017-02-14,Finland,FI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5,0,0,0,0,0
+2017-02-14,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3,0,0,0,0,0
+2017-02-14,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.2,0,0,0,0,0
+2017-02-14,Jordan,JO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.6,0,0,0,0,0
+2017-02-14,Latvia,LV,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,3,3.1,0,0,0,0,0
+2017-02-14,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.9,0,0,0,0,0
+2017-02-14,Portugal,PT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-14,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5,0,0,0,0,0
+2017-02-14,Slovenia,SI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-14,Turkey,TR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-02-14,Ukraine,UA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-02-14,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,76,22,3.5,0,0,0,2,0
+2017-02-14,Unknown Region,ZZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,0,0,0,0,1
+2017-02-15,Argentina,AR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5,0,0,0,0,0
+2017-02-15,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.9,0,0,0,0,0
+2017-02-15,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2,0,0,0,0,0
+2017-02-15,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.1,0,0,0,0,0
+2017-02-15,Switzerland,CH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9,0,0,0,0,0
+2017-02-15,Colombia,CO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-02-15,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.3,0,0,1,0,0
+2017-02-15,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1,0,0,0,0,0
+2017-02-15,Egypt,EG,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-02-15,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,3.9,0,0,0,1,0
+2017-02-15,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.2,0,0,0,0,1
+2017-02-15,Hong Kong,HK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7,0,0,0,0,0
+2017-02-15,Indonesia,ID,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,2.1,0,0,1,0,0
+2017-02-15,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0,0,0,0,0,0
+2017-02-15,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,0,0,0,1,0
+2017-02-15,Malaysia,MY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5,0,0,0,0,0
+2017-02-15,New Zealand,NZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.2,0,0,0,0,0
+2017-02-15,Philippines,PH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.9,0,0,0,0,0
+2017-02-15,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.5,0,0,0,0,0
+2017-02-15,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.6,0,0,0,0,0
+2017-02-15,Turkey,TR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3,0,0,0,0,0
+2017-02-15,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,57,24,2.4,0,1,0,1,0
+2017-02-15,Vietnam,VN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0,0,0,0,0,0
+2017-02-16,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,3.1,0,0,0,0,0
+2017-02-16,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.8,0,0,0,0,0
+2017-02-16,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,4,0.9,0,2,0,0,1
+2017-02-16,Chile,CL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7,0,0,0,0,0
+2017-02-16,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,1,0,0,0,0
+2017-02-16,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,4,0.6,0,1,1,0,0
+2017-02-16,Estonia,EE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2,0,0,0,0,0
+2017-02-16,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-16,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,5,2.4,0,0,0,0,0
+2017-02-16,Hungary,HU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.5,0,0,0,0,0
+2017-02-16,Israel,IL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.4,0,0,0,0,0
+2017-02-16,Jordan,JO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0,0,0,0,0,0
+2017-02-16,Japan,JP,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6,0,0,0,0,0
+2017-02-16,Kenya,KE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4,0,0,0,0,0
+2017-02-16,Moldova,MD,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-16,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,5,2.7,0,0,0,0,0
+2017-02-16,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.2,0,0,0,0,0
+2017-02-16,New Zealand,NZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0,0,0,0,0,0
+2017-02-16,Panama,PA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8,0,0,0,0,0
+2017-02-16,Romania,RO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9,0,0,0,0,0
+2017-02-16,Turkey,TR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.1,0,0,0,0,0
+2017-02-16,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,167,86,1.9,1,6,0,1,4
+2017-02-16,Venezuela,VE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6,0,0,0,0,0
+2017-02-16,Unknown Region,ZZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,2,0,0,0,0
+2017-02-17,Belgium,BE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.8,0,0,0,0,0
+2017-02-17,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,4,2.0,0,0,0,0,0
+2017-02-17,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,2,5.0,0,0,0,0,0
+2017-02-17,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,2,4.8,0,0,0,0,0
+2017-02-17,Dominican Republic,DO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.8,0,0,0,0,0
+2017-02-17,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.9,0,1,0,0,0
+2017-02-17,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,7,1.4,0,0,0,1,0
+2017-02-17,Greece,GR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9,0,0,0,0,0
+2017-02-17,Indonesia,ID,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2,0,0,0,0,0
+2017-02-17,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.1,0,0,0,0,0
+2017-02-17,Iceland,IS,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5,0,0,0,0,0
+2017-02-17,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-17,New Zealand,NZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,4,1.5,0,0,0,0,0
+2017-02-17,Oman,OM,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4,0,0,0,0,0
+2017-02-17,Philippines,PH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8,0,0,0,0,0
+2017-02-17,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,3,4.1,0,0,0,0,0
+2017-02-17,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.6,0,0,0,0,0
+2017-02-17,Taiwan,TW,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7,0,0,0,0,0
+2017-02-17,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,187,74,2.5,1,7,0,3,2
+2017-02-17,Unknown Region,ZZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,1,0,0,0,0
+2017-02-18,Albania,AL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5,0,0,0,0,0
+2017-02-18,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5,0,0,0,0,0
+2017-02-18,Belgium,BE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,3,2.2,0,0,0,0,0
+2017-02-18,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5,0,0,0,0,0
+2017-02-18,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4,0,0,0,0,0
+2017-02-18,Switzerland,CH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4,0,0,0,0,0
+2017-02-18,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,4,0.7,0,0,0,0,0
+2017-02-18,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,6,1.9,0,0,0,0,0
+2017-02-18,Greece,GR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4,0,0,0,0,0
+2017-02-18,Croatia,HR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6,0,0,0,0,0
+2017-02-18,Japan,JP,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0,0,0,0,0,0
+2017-02-18,Latvia,LV,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.0,0,0,0,0,0
+2017-02-18,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-02-18,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,2,4.8,0,0,0,0,0
+2017-02-18,Peru,PE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-02-18,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,13,3,4.3,0,0,0,0,0
+2017-02-18,Qatar,QA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-02-18,Saudi Arabia,SA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.3,0,1,0,0,0
+2017-02-18,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,7,1.5,0,1,0,0,0
+2017-02-18,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,148,57,2.6,0,0,0,2,0
+2017-02-19,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.3,0,0,0,0,0
+2017-02-19,Belgium,BE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1,0,0,0,0,0
+2017-02-19,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,2,5.7,0,0,0,0,0
+2017-02-19,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,21,8,2.6,0,0,0,0,1
+2017-02-19,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,17,6,2.9,0,0,0,0,0
+2017-02-19,Spain,ES,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.7,0,0,0,0,0
+2017-02-19,Finland,FI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.9,0,0,0,0,0
+2017-02-19,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,3,3.4,0,0,0,0,0
+2017-02-19,Greece,GR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,3,1.8,0,0,0,0,0
+2017-02-19,Hong Kong,HK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9,0,0,0,0,0
+2017-02-19,Iceland,IS,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.3,0,0,0,0,0
+2017-02-19,Malaysia,MY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.5,0,0,0,0,0
+2017-02-19,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,1
+2017-02-19,Philippines,PH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7,0,0,0,0,0
+2017-02-19,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.5,0,0,0,0,0
+2017-02-19,Portugal,PT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,1,7.2,0,0,0,0,0
+2017-02-19,Romania,RO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4,0,0,0,0,0
+2017-02-19,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,4,2.1,0,0,0,0,0
+2017-02-19,Turkey,TR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.0,0,0,0,0,0
+2017-02-19,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,146,65,2.2,1,3,0,3,1
+2017-02-20,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,3,2.9,0,0,0,0,0
+2017-02-20,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.6,0,0,0,0,0
+2017-02-20,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,6,1.9,0,0,0,0,0
+2017-02-20,Finland,FI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,3,1.4,0,0,0,0,0
+2017-02-20,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,27,10,2.7,0,1,0,1,0
+2017-02-20,Indonesia,ID,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5,0,0,0,0,0
+2017-02-20,Cambodia,KH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9,0,0,0,0,0
+2017-02-20,Latvia,LV,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,5,1.4,0,0,0,1,1
+2017-02-20,Macedonia (FYROM),MK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.7,0,0,0,0,0
+2017-02-20,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,3,1.8,0,0,0,0,0
+2017-02-20,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,6,1.9,0,0,0,0,0
+2017-02-20,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.0,0,0,0,0,0
+2017-02-20,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.2,0,0,0,0,0
+2017-02-20,Slovenia,SI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.9,0,0,0,0,0
+2017-02-20,Turkey,TR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5,0,0,0,0,0
+2017-02-20,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,73,35,2.1,0,2,0,2,1
+2017-02-20,South Africa,ZA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3,0,0,0,0,0
+2017-02-21,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0,0,0,0,0,0
+2017-02-21,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-02-21,Switzerland,CH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,4.0,0,0,0,0,0
+2017-02-21,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,6,1.9,0,0,0,0,0
+2017-02-21,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,3,2.9,0,0,0,1,0
+2017-02-21,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3,0,0,0,0,0
+2017-02-21,Japan,JP,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,3.8,0,0,0,0,0
+2017-02-21,Pakistan,PK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5,0,0,0,0,0
+2017-02-21,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-02-21,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7,0,0,0,0,0
+2017-02-21,Slovenia,SI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.5,0,0,0,0,0
+2017-02-21,Thailand,TH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2,0,0,0,0,0
+2017-02-21,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,46,20,2.3,0,0,0,0,0
+2017-02-22,Austria,AT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6,0,0,0,0,0
+2017-02-22,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,5,1.6,0,0,0,0,0
+2017-02-22,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,4,3.9,0,0,0,0,0
+2017-02-22,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,13,2,6.5,0,0,0,0,0
+2017-02-22,Chile,CL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,4,0.3,0,0,0,0,0
+2017-02-22,Cyprus,CY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.8,0,0,0,0,0
+2017-02-22,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.2,0,0,0,0,0
+2017-02-22,Estonia,EE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,3.8,0,0,0,0,0
+2017-02-22,Spain,ES,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,3,3.4,0,1,0,0,0
+2017-02-22,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5,0,0,0,0,0
+2017-02-22,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,6,2.6,0,0,0,0,0
+2017-02-22,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.8,0,0,0,0,0
+2017-02-22,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.0,0,0,0,0,0
+2017-02-22,Kuwait,KW,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,2.0,0,0,0,0,0
+2017-02-22,Lithuania,LT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.5,0,0,0,0,0
+2017-02-22,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6,0,0,0,0,0
+2017-02-22,Peru,PE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-02-22,Philippines,PH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7,0,0,0,0,0
+2017-02-22,Portugal,PT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0,0,0,0,0,0
+2017-02-22,Romania,RO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7,0,0,0,0,0
+2017-02-22,Saudi Arabia,SA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,6,0.6,0,0,0,0,0
+2017-02-22,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,4.1,0,0,0,0,0
+2017-02-22,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,124,56,2.2,0,1,0,2,2
+2017-02-22,Unknown Region,ZZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,1,0,0,0,0
+2017-02-23,Argentina,AR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,3,1.3,0,0,0,0,0
+2017-02-23,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,3,2.9,0,0,0,0,0
+2017-02-23,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,5,0.7,0,1,0,0,0
+2017-02-23,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,3,4.6,0,0,0,0,0
+2017-02-23,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-02-23,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-02-23,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,3,4.2,0,1,0,0,0
+2017-02-23,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-02-23,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6,0,0,0,0,0
+2017-02-23,Peru,PE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9,0,0,0,0,0
+2017-02-23,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3,0,1,0,0,0
+2017-02-23,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,4.0,0,0,0,1,0
+2017-02-23,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,73,34,2.1,0,0,0,1,1
+2017-02-23,Venezuela,VE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-24,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-02-24,Azerbaijan,AZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.2,0,0,0,0,0
+2017-02-24,Belgium,BE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-24,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-24,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-24,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,4,1.4,0,0,0,0,0
+2017-02-24,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,5,1.8,0,1,0,1,0
+2017-02-24,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9,0,0,0,0,0
+2017-02-24,Finland,FI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0,0,0,0,0,0
+2017-02-24,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.4,0,0,0,0,0
+2017-02-24,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,5,1.7,0,0,0,0,0
+2017-02-24,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-02-24,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-02-24,New Zealand,NZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.1,0,0,0,0,0
+2017-02-24,Oman,OM,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.1,0,0,0,0,0
+2017-02-24,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.0,0,0,0,0,0
+2017-02-24,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5,0,0,0,0,0
+2017-02-24,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.0,0,0,0,0,0
+2017-02-24,Singapore,SG,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.8,0,0,0,0,0
+2017-02-24,Slovenia,SI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,17,4,4.3,0,0,0,0,0
+2017-02-24,Turkey,TR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1,0,0,0,0,0
+2017-02-24,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,82,32,2.6,0,0,0,4,0
+2017-02-25,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,0,0,0,0,1
+2017-02-25,Colombia,CO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-02-25,Costa Rica,CR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.4,0,0,0,0,0
+2017-02-25,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,4,2.5,0,0,0,0,0
+2017-02-25,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6,0,0,0,0,0
+2017-02-25,Spain,ES,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.1,0,0,0,0,0
+2017-02-25,Finland,FI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1,0,0,0,0,0
+2017-02-25,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,5,2.0,0,0,0,0,0
+2017-02-25,Kenya,KE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5,0,1,0,0,0
+2017-02-25,Mauritius,MU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.7,0,0,0,0,0
+2017-02-25,Malaysia,MY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.5,0,0,0,0,0
+2017-02-25,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,4.1,0,0,0,0,0
+2017-02-25,Portugal,PT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,2,5.6,0,0,0,0,0
+2017-02-25,Romania,RO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.5,0,0,0,0,0
+2017-02-25,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0,0,0,0,0,0
+2017-02-25,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,2.1,0,0,0,0,0
+2017-02-25,Turkey,TR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3,0,0,0,0,0
+2017-02-25,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,122,44,2.8,0,1,0,2,1
+2017-02-26,United Arab Emirates,AE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.9,0,0,0,0,0
+2017-02-26,Argentina,AR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.8,0,0,0,0,0
+2017-02-26,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,16,4,4.0,0,0,1,0,0
+2017-02-26,Belgium,BE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.5,0,0,0,0,0
+2017-02-26,Bulgaria,BG,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9,0,0,0,0,0
+2017-02-26,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,13,4,3.4,0,0,0,1,0
+2017-02-26,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,7,1.7,0,0,0,0,0
+2017-02-26,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,6,0.9,0,0,0,0,0
+2017-02-26,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,3,2.3,0,0,0,0,0
+2017-02-26,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.4,0,0,0,0,0
+2017-02-26,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,6,2.3,0,0,0,0,0
+2017-02-26,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0,0,0,0,0,0
+2017-02-26,Latvia,LV,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.1,0,0,0,0,0
+2017-02-26,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8,0,0,0,0,0
+2017-02-26,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,6,2.1,0,0,0,0,0
+2017-02-26,New Zealand,NZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.0,0,0,0,0,0
+2017-02-26,Romania,RO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,2,5.5,0,0,0,0,0
+2017-02-26,Saudi Arabia,SA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5,0,0,0,0,0
+2017-02-26,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7,0,0,0,0,1
+2017-02-26,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,115,39,3.0,0,0,0,1,0
+2017-02-27,Austria,AT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-02-27,Belgium,BE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2,0,0,0,0,0
+2017-02-27,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-02-27,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.4,0,0,0,0,0
+2017-02-27,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9,0,0,0,0,0
+2017-02-27,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-27,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,18,7,2.5,0,0,1,0,0
+2017-02-27,Hong Kong,HK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3,0,0,0,0,0
+2017-02-27,Hungary,HU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-02-27,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.4,0,0,0,0,0
+2017-02-27,South Korea,KR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-27,Mauritius,MU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.3,0,0,0,1,0
+2017-02-27,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.5,0,0,0,0,0
+2017-02-27,Philippines,PH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-02-27,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-02-27,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.3,0,0,0,0,0
+2017-02-27,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,63,21,3.0,0,0,0,0,0
+2017-02-27,Unknown Region,ZZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,1,0,0,0,0
+2017-02-28,Belgium,BE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,6,2.6,0,0,0,0,0
+2017-02-28,Bulgaria,BG,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7,0,0,0,0,0
+2017-02-28,Belarus,BY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-02-28,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,18,5,3.6,0,0,0,0,0
+2017-02-28,Colombia,CO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-02-28,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.7,0,0,0,0,0
+2017-02-28,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.2,0,0,0,0,0
+2017-02-28,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,6,1.8,0,0,0,0,0
+2017-02-28,Hong Kong,HK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-02-28,Indonesia,ID,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1,0,0,0,0,0
+2017-02-28,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.0,0,0,0,0,0
+2017-02-28,Japan,JP,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9,0,0,0,0,0
+2017-02-28,South Korea,KR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,5,1.1,0,0,0,0,0
+2017-02-28,Lithuania,LT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,17,4,4.1,0,0,0,0,0
+2017-02-28,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.8,0,0,0,0,0
+2017-02-28,Peru,PE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,3,1.0,0,0,0,0,0
+2017-02-28,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.1,0,0,0,0,0
+2017-02-28,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8,0,0,0,0,0
+2017-02-28,Slovakia,SK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.6,0,0,0,0,0
+2017-02-28,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,101,32,3.2,0,0,0,1,0
+2017-03-01,Argentina,AR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6,0,0,0,0,0
+2017-03-01,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,25,6,4.2,0,0,0,0,0
+2017-03-01,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.2,0,0,0,0,0
+2017-03-01,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,5,2.4,0,0,1,0,0
+2017-03-01,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-01,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,1.8,0,2,0,0,0
+2017-03-01,Spain,ES,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.9,0,0,0,0,0
+2017-03-01,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,17,7,2.4,0,0,0,0,0
+2017-03-01,Ireland,IE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.9,0,0,0,0,0
+2017-03-01,Israel,IL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1,0,0,0,0,0
+2017-03-01,South Korea,KR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-03-01,Malaysia,MY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.0,0,0,0,0,0
+2017-03-01,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.7,0,0,0,0,0
+2017-03-01,New Zealand,NZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.7,0,0,0,0,0
+2017-03-01,Philippines,PH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,3,3.1,0,0,0,0,0
+2017-03-01,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-03-01,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1,0,0,0,0,0
+2017-03-01,Singapore,SG,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-03-01,Thailand,TH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-03-01,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,80,26,3.1,0,0,0,2,0
+2017-03-02,Argentina,AR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.1,0,0,0,0,0
+2017-03-02,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8,0,0,0,0,0
+2017-03-02,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,3,2.4,0,0,0,0,0
+2017-03-02,Switzerland,CH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-02,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,3,0.9,0,0,0,0,0
+2017-03-02,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,27,6,4.5,0,0,0,0,0
+2017-03-02,Ecuador,EC,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1,0,0,0,0,0
+2017-03-02,Spain,ES,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.6,0,0,0,0,0
+2017-03-02,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.9,0,0,0,0,0
+2017-03-02,Guatemala,GT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-02,Indonesia,ID,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.5,0,0,0,0,0
+2017-03-02,Lithuania,LT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.7,0,0,0,0,0
+2017-03-02,Moldova,MD,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-02,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.8,0,0,0,0,0
+2017-03-02,Singapore,SG,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-03-02,Slovenia,SI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7,0,0,0,0,0
+2017-03-02,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,75,29,2.6,0,0,0,1,1
+2017-03-03,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.6,0,0,0,0,0
+2017-03-03,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,4,1.1,0,0,0,0,0
+2017-03-03,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.1,0,0,0,0,0
+2017-03-03,Finland,FI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-03,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5,0,0,0,0,0
+2017-03-03,Ireland,IE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6,0,0,0,0,0
+2017-03-03,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.5,0,0,0,0,0
+2017-03-03,Malaysia,MY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-03,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-03-03,Philippines,PH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7,0,0,0,0,0
+2017-03-03,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5,0,0,0,0,0
+2017-03-03,Tunisia,TN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-03-03,Taiwan,TW,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.8,0,0,0,0,0
+2017-03-03,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,124,47,2.6,0,0,0,0,1
+2017-03-03,Unknown Region,ZZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,1,0,0,0,0
+2017-03-04,United Arab Emirates,AE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.3,0,0,0,0,0
+2017-03-04,Austria,AT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.8,0,0,0,0,0
+2017-03-04,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.7,0,0,0,0,0
+2017-03-04,Belgium,BE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.6,0,0,0,0,0
+2017-03-04,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,0.9,0,0,0,0,0
+2017-03-04,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,4,2.3,0,0,0,0,0
+2017-03-04,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,8,1.5,0,0,0,0,0
+2017-03-04,Estonia,EE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.5,0,0,0,0,0
+2017-03-04,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,18,4,4.6,0,0,0,0,0
+2017-03-04,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.0,0,0,0,0,0
+2017-03-04,Croatia,HR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-04,Japan,JP,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.5,0,0,0,0,0
+2017-03-04,Lithuania,LT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.1,0,0,0,0,0
+2017-03-04,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.0,0,0,0,0,0
+2017-03-04,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,3.0,0,0,0,0,0
+2017-03-04,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-04,Singapore,SG,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.8,0,0,0,0,0
+2017-03-04,Slovakia,SK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-03-04,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,126,42,3.0,0,1,0,4,3
+2017-03-05,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6,0,0,0,1,0
+2017-03-05,Belgium,BE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,2.0,0,0,0,0,0
+2017-03-05,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.2,0,0,0,0,0
+2017-03-05,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.3,0,0,0,0,0
+2017-03-05,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4,0,0,0,0,0
+2017-03-05,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,3,2.4,0,0,0,0,0
+2017-03-05,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.7,0,0,0,0,0
+2017-03-05,Finland,FI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-05,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,6,1.7,0,0,0,0,0
+2017-03-05,Croatia,HR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.0,0,0,0,0,0
+2017-03-05,Hungary,HU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7,0,0,0,0,0
+2017-03-05,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2,0,0,0,0,0
+2017-03-05,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-05,Japan,JP,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,3.2,0,0,0,0,0
+2017-03-05,Cayman Islands,KY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,1,7.3,0,0,0,0,0
+2017-03-05,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-03-05,Malaysia,MY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-05,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,24,7,3.4,0,0,0,0,0
+2017-03-05,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8,0,0,0,0,0
+2017-03-05,Philippines,PH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9,0,0,0,0,0
+2017-03-05,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5,0,0,0,0,0
+2017-03-05,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.7,0,0,0,0,0
+2017-03-05,Turkey,TR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.3,0,0,0,0,0
+2017-03-05,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,104,51,2.0,0,2,-1,1,0
+2017-03-06,Argentina,AR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.5,0,0,0,0,0
+2017-03-06,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6,0,0,0,0,0
+2017-03-06,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.8,0,0,0,0,0
+2017-03-06,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,16,6,2.6,0,0,0,0,0
+2017-03-06,Switzerland,CH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6,0,0,0,0,0
+2017-03-06,Colombia,CO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0,0,0,0,0,0
+2017-03-06,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,13,5,2.7,0,0,0,0,0
+2017-03-06,Spain,ES,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,6,0.3,0,0,0,0,0
+2017-03-06,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.4,0,0,0,0,0
+2017-03-06,Hungary,HU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,2,4.1,0,0,0,0,0
+2017-03-06,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-06,Japan,JP,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-03-06,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,6,0.9,0,0,0,0,0
+2017-03-06,Malaysia,MY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5,0,0,0,0,0
+2017-03-06,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,3,0.7,0,0,0,0,0
+2017-03-06,Romania,RO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,2,2.9,0,0,0,0,0
+2017-03-06,Saudi Arabia,SA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8,0,0,0,0,0
+2017-03-06,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0,0,0,0,0,0
+2017-03-06,Slovenia,SI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0,0,0,0,0,0
+2017-03-06,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,100,35,2.9,0,0,0,1,0
+2017-03-07,Argentina,AR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-07,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.3,0,0,0,0,0
+2017-03-07,Brunei,BN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9,0,0,0,0,0
+2017-03-07,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-07,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,30,10,3.0,0,0,0,0,0
+2017-03-07,Switzerland,CH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-03-07,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,3,2.3,0,0,0,0,0
+2017-03-07,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2,0,0,0,0,0
+2017-03-07,Finland,FI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.1,0,0,0,0,0
+2017-03-07,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,2,1.7,0,0,0,0,0
+2017-03-07,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-07,South Korea,KR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.9,0,0,0,0,0
+2017-03-07,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.3,0,0,0,0,0
+2017-03-07,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-03-07,New Zealand,NZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,4,1.1,0,0,0,0,0
+2017-03-07,Peru,PE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.0,0,0,0,0,0
+2017-03-07,Serbia,RS,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,3,1.8,0,0,0,0,0
+2017-03-07,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.8,0,0,0,0,0
+2017-03-07,Singapore,SG,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1,0,0,0,0,0
+2017-03-07,Taiwan,TW,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-07,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,135,49,2.8,0,2,0,3,1
+2017-03-08,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,8,5,1.5,0,0,0,1,0
+2017-03-08,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-08,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1,0,0,0,0,0
+2017-03-08,Switzerland,CH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.6,0,0,0,0,0
+2017-03-08,Chile,CL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.1,0,0,0,0,0
+2017-03-08,Curaçao,CW,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.0,0,0,0,0,0
+2017-03-08,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,11,3,3.5,0,0,0,0,0
+2017-03-08,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-08,Spain,ES,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6,0,0,0,0,0
+2017-03-08,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,3,1.3,0,0,0,0,0
+2017-03-08,Mauritius,MU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-03-08,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4,0,0,0,0,0
+2017-03-08,Portugal,PT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-08,Sweden,SE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.6,0,0,0,0,0
+2017-03-08,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,94,36,2.6,1,1,0,2,0
+2017-03-08,South Africa,ZA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-09,Austria,AT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.8,0,0,0,0,0
+2017-03-09,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.7,0,0,0,0,0
+2017-03-09,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,25,10,2.5,0,1,0,0,0
+2017-03-09,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,2.0,0,0,0,0,0
+2017-03-09,Greece,GR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.0,0,0,0,0,0
+2017-03-09,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,5,2.7,0,0,0,0,0
+2017-03-09,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,2,0.2,0,0,0,0,0
+2017-03-09,Peru,PE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7,0,0,0,0,0
+2017-03-09,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,15,5,3.0,0,0,0,0,0
+2017-03-09,Saudi Arabia,SA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-09,Taiwan,TW,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,1.9,0,0,0,0,0
+2017-03-09,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,96,34,2.8,0,2,0,1,0
+2017-03-09,Vietnam,VN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-03-09,Unknown Region,ZZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,0,0.0,1,0,0,0,0
+2017-03-10,Albania,AL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.3,0,0,0,0,0
+2017-03-10,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,1.8,0,0,0,0,0
+2017-03-10,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,2,4.3,0,0,0,0,0
+2017-03-10,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,3,1.1,0,0,0,0,0
+2017-03-10,Algeria,DZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.8,0,0,0,0,0
+2017-03-10,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,3,3.3,0,0,0,0,0
+2017-03-10,Guatemala,GT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.3,0,0,0,0,0
+2017-03-10,Indonesia,ID,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.2,0,0,0,0,0
+2017-03-10,Israel,IL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.4,0,0,0,0,0
+2017-03-10,Cambodia,KH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.9,0,0,0,0,0
+2017-03-10,South Korea,KR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.1,0,0,0,0,0
+2017-03-10,Morocco,MA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.6,0,0,0,0,0
+2017-03-10,Macedonia (FYROM),MK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-10,Malta,MT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.0,0,0,0,0,0
+2017-03-10,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.3,0,0,0,0,0
+2017-03-10,Romania,RO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.1,0,0,0,0,0
+2017-03-10,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.8,0,0,0,0,0
+2017-03-10,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,123,49,2.5,0,2,0,1,0
+2017-03-11,United Arab Emirates,AE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.8,0,0,0,0,0
+2017-03-11,Austria,AT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,3,2.0,0,0,0,0,0
+2017-03-11,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,3,2.4,0,0,0,0,0
+2017-03-11,Brazil,BR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,4.2,0,0,0,0,0
+2017-03-11,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,3,0.3,0,0,0,0,0
+2017-03-11,Switzerland,CH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,1,7.5,0,0,0,0,0
+2017-03-11,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,4,2.5,0,0,0,0,0
+2017-03-11,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9,0,0,0,0,0
+2017-03-11,Finland,FI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,12,2,6.0,0,0,0,0,0
+2017-03-11,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9,0,0,0,0,0
+2017-03-11,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,4,3.4,0,0,0,0,0
+2017-03-11,Georgia,GE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.0,0,0,0,0,0
+2017-03-11,Indonesia,ID,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.2,0,0,0,0,0
+2017-03-11,Israel,IL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,4,0.5,0,0,0,0,0
+2017-03-11,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,0,1,0.4,0,0,0,0,0
+2017-03-11,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,4,0.8,0,0,0,0,0
+2017-03-11,Japan,JP,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.9,0,0,0,0,0
+2017-03-11,Liechtenstein,LI,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5,0,0,0,0,0
+2017-03-11,Latvia,LV,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.2,0,0,0,0,0
+2017-03-11,Malaysia,MY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-03-11,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.3,0,0,0,0,0
+2017-03-11,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,4.7,0,0,0,0,0
+2017-03-11,Romania,RO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0,0,0,0,0,0
+2017-03-11,Slovakia,SK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.4,0,0,0,0,0
+2017-03-11,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,144,46,3.1,0,0,1,2,0
+2017-03-12,United Arab Emirates,AE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1,0,0,0,0,0
+2017-03-12,Australia,AU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-03-12,Canada,CA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,14,3,4.6,0,0,0,0,0
+2017-03-12,Switzerland,CH,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.8,0,0,0,0,0
+2017-03-12,Chile,CL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7,0,0,0,0,0
+2017-03-12,Czechia,CZ,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.8,0,0,0,0,0
+2017-03-12,Germany,DE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,5.9,0,0,0,0,0
+2017-03-12,Denmark,DK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.7,0,0,0,0,0
+2017-03-12,Estonia,EE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,2,2.6,0,0,0,0,0
+2017-03-12,France,FR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,2,1.0,0,0,0,0,0
+2017-03-12,United Kingdom,GB,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.6,0,0,0,0,0
+2017-03-12,Croatia,HR,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,2,0.5,0,0,0,0,0
+2017-03-12,Ireland,IE,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.9,0,0,0,0,0
+2017-03-12,India,IN,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,9,2,4.7,0,0,0,0,0
+2017-03-12,Italy,IT,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,3,1,2.8,0,0,0,0,0
+2017-03-12,Latvia,LV,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.7,0,0,0,0,0
+2017-03-12,Mexico,MX,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,1.0,0,0,0,0,0
+2017-03-12,Malaysia,MY,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,10,3,3.2,0,0,0,0,0
+2017-03-12,Netherlands,NL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,1,1,0.5,0,0,0,0,0
+2017-03-12,Norway,NO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,7,2,3.4,0,0,0,0,0
+2017-03-12,Poland,PL,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.1,0,0,0,0,0
+2017-03-12,Romania,RO,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,5,1,5.3,0,0,0,0,0
+2017-03-12,Russia,RU,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,6,1,6.2,0,0,0,0,0
+2017-03-12,Saudi Arabia,SA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,2,1.8,0,0,0,0,0
+2017-03-12,Slovakia,SK,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,2,1,2.4,0,0,0,0,0
+2017-03-12,Ukraine,UA,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,4,1,3.7,0,0,0,0,0
+2017-03-12,United States,US,Louis Weisz,OMrUmOTPD_AnSivjxptxpA,161,56,2.9,0,1,0,2,0

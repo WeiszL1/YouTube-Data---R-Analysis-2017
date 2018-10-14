@@ -1,0 +1,378 @@
+---
+title: "Data Glossary"
+author: "Louis Weisz"
+date: "November 13, 2017"
+output: html_document
+---
+
+```{r, library imports, include=FALSE}
+library(ggplot2)
+library(dplyr)
+library(boot)
+library(Hmisc)
+library(knitr)
+library(readr)
+library(ggthemes)
+library(xtable)
+library(pander)
+library(car)
+```
+
+```{r, read in data, include = FALSE}
+
+# "wt" series for "Watch Time"
+wt1 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160613.20160713.UN001.watch_time.csv", col_names = TRUE)
+wt2 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160713.20160813.UN001.watch_time.csv", col_names = TRUE)
+wt3 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160813.20160913.UN001.watch_time.csv", col_names = TRUE)
+wt4 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160913.20161013.UN001.watch_time.csv", col_names = TRUE)
+wt5 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161013.20161112.UN001.watch_time.csv", col_names = TRUE)
+wt6 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161112.20161212.UN001.watch_time.csv", col_names = TRUE)
+wt7 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161212.20170112.UN001.watch_time.csv", col_names = TRUE)
+wt8 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170112.20170212.UN001.watch_time.csv", col_names = TRUE)
+wt9 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170212.20170312.UN001.watch_time.csv", col_names = TRUE)
+wt10 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170312.20170412.UN001.watch_time.csv", col_names = TRUE)
+wt11 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170412.20170512.UN001.watch_time.csv", col_names = TRUE)
+wt12 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170512.20170612.UN001.watch_time.csv", col_names = TRUE)
+wt13 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170612.20170712.UN001.watch_time.csv", col_names = TRUE)
+wt14 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170712.20170812.UN001.watch_time.csv", col_names = TRUE)
+wt15 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170812.20170912.UN001.watch_time.csv", col_names = TRUE)
+wt16 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170912.20171012.UN001.watch_time.csv", col_names = TRUE)
+wt17 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20171012.20171111.UN001.watch_time.csv", col_names = TRUE)
+
+# "pl" series for "Playback Location"
+pl1 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160613.20160713.UN001.playback_location.csv", col_names = TRUE)
+pl2 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160713.20160813.UN001.playback_location.csv", col_names = TRUE)
+pl3 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160813.20160913.UN001.playback_location.csv", col_names = TRUE)
+pl4 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160913.20161013.UN001.playback_location.csv", col_names = TRUE)
+pl5 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161013.20161112.UN001.playback_location.csv", col_names = TRUE)
+pl6 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161112.20161212.UN001.playback_location.csv", col_names = TRUE)
+pl7 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161212.20170112.UN001.playback_location.csv", col_names = TRUE)
+pl8 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170112.20170212.UN001.playback_location.csv", col_names = TRUE)
+pl9 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170212.20170312.UN001.playback_location.csv", col_names = TRUE)
+pl10 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170312.20170412.UN001.playback_location.csv", col_names = TRUE)
+pl11 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170412.20170512.UN001.playback_location.csv", col_names = TRUE)
+pl12 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170512.20170612.UN001.playback_location.csv", col_names = TRUE)
+pl13 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170612.20170712.UN001.playback_location.csv", col_names = TRUE)
+pl14 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170712.20170812.UN001.playback_location.csv", col_names = TRUE)
+pl15 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170812.20170912.UN001.playback_location.csv", col_names = TRUE)
+pl16 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170912.20171012.UN001.playback_location.csv", col_names = TRUE)
+pl17 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20171012.20171111.UN001.playback_location.csv", col_names = TRUE)
+
+# "ts" series for "Traffic Source"
+ts1 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160613.20160713.UN001.traffic_source.csv", col_names = TRUE)
+ts2 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160713.20160813.UN001.traffic_source.csv", col_names = TRUE)
+ts3 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160813.20160913.UN001.traffic_source.csv", col_names = TRUE)
+ts4 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20160913.20161013.UN001.traffic_source.csv", col_names = TRUE)
+ts5 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161013.20161112.UN001.traffic_source.csv", col_names = TRUE)
+ts6 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161112.20161212.UN001.traffic_source.csv", col_names = TRUE)
+ts7 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20161212.20170112.UN001.traffic_source.csv", col_names = TRUE)
+ts8 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170112.20170212.UN001.traffic_source.csv", col_names = TRUE)
+ts9 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170212.20170312.UN001.traffic_source.csv", col_names = TRUE)
+ts10 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170312.20170412.UN001.traffic_source.csv", col_names = TRUE)
+ts11 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170412.20170512.UN001.traffic_source.csv", col_names = TRUE)
+ts12 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170512.20170612.UN001.traffic_source.csv", col_names = TRUE)
+ts13 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170612.20170712.UN001.traffic_source.csv", col_names = TRUE)
+ts14 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170712.20170812.UN001.traffic_source.csv", col_names = TRUE)
+ts15 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170812.20170912.UN001.traffic_source.csv", col_names = TRUE)
+ts16 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20170912.20171012.UN001.traffic_source.csv", col_names = TRUE)
+ts17 <- read_csv("OMrUmOTPD_AnSivjxptxpA.20171012.20171111.UN001.traffic_source.csv", col_names = TRUE)
+
+```
+
+
+```{r}
+
+wt1_wt17 <- rbind(wt1, wt2, wt3, wt4, wt5, wt6, wt7, wt8, wt9, wt10, wt11, wt12, wt13, wt14, wt15, wt16, wt17)
+
+pl1_pl17 <- rbind(pl1, pl2, pl3, pl4, pl5, pl6, pl7, pl8, pl9, pl10, pl11, pl12, pl13, pl14, pl15, pl16, pl17)
+
+ts1_ts17 <- rbind(ts1, ts2, ts3, ts4, ts5, ts6, ts7, ts8, ts9, ts10, ts11, ts12, ts13, ts14, ts15, ts16, ts17)
+
+
+
+wt1_wt17 <- unique(wt1_wt17)
+
+pl1_pl17 <- unique(pl1_pl17)
+
+ts1_ts17 <- unique(ts1_ts17)
+
+
+netSubs <- wt1_wt17 %>%
+  select(date, country_name, views, subscribers_gained, subscribers_lost)
+
+
+wtpl1_wtpl17 <- right_join(wt1_wt17, pl1_pl17)
+all1_all17 <- right_join(wtpl1_wtpl17, ts1_ts17) %>%
+  group_by(date)
+#View(wt1_wt17)
+
+rename(all1_all17, viewsTS = views)
+#viewsTS = views from a traffic source
+
+View(all1_all17)
+View(pl1_pl17)
+View(ts1_ts17)
+
+```
+
+
+```{r}
+USAwt <- wt1_wt17 %>%
+  filter(country_name == "United States")
+
+
+
+big5 <- c("United States", "Canada", "United Kingdom", "Australia", "Germany")
+
+big5wt <- wt1_wt17 %>%
+  filter(country_name %in% big5)
+
+big5netSubs <- big5wt %>%
+  select(date, country_name, views, subscribers_gained, subscribers_lost)
+
+big4 <- c("Canada", "United Kingdom", "Australia", "Germany")
+
+big4wt <- wt1_wt17 %>%
+  filter(country_name %in% big4)
+
+
+big4wt_0A <- big4wt %>%
+  group_by(date)
+
+glimpse(big5wt)
+
+summary(big5wt)
+```
+
+
+
+```{r}
+#USAwt
+
+big4sumViews <- big4wt%>%
+  group_by(country_name) %>%
+  summarise(TotalViews = sum(views))
+
+allsumviews <- wt1_wt17 %>%
+  group_by(country_name) %>%
+  summarise(TotalViews = sum(views))
+
+```
+
+
+
+```{r}
+ASV150 <- allsumviews %>%
+  filter(TotalViews > 150) %>%
+  arrange(TotalViews)
+
+ggplot(USAwt, aes(date, views)) +
+  geom_line() +
+  ggtitle("Views Over Time from US Viewers")
+
+ggplot(big4wt, aes(date, views)) +
+  geom_line() +
+  facet_wrap(~country_name) +
+  ggtitle("Views Over Time from Big 4 Viewers")
+
+ggplot(ASV150, aes(TotalViews)) +
+  geom_histogram(binwidth = 100) +
+  ggtitle("Views Over Time")
+
+ggplot(big4sumViews, aes(TotalViews)) +
+  geom_bar() +
+  ggtitle("Views Over Time")
+
+ggplot(big4wt, aes(date, views, group = country_name, color = country_name)) +
+  geom_point() +
+  geom_line() +
+  ggtitle("Country Comparison")
+
+ggplot(ASV150, aes(TotalViews)) +
+  geom_freqpoly(binwidth = 400) +
+  ggtitle("Distribution of ASV150 Countries grouped by TotalViews")
+
+#try separating by first ha;\lf of time vs second half -- make variables
+
+ggplot(ASV150, aes(TotalViews)) +
+  geom_histogram(binwidth = 400) +
+  ggtitle("Distribution of ASV150 Countries grouped by TotalViews")
+
+ggplot(USAwt, aes(views)) +
+  geom_density()
+
+ggplot(USAwt, aes(date, views)) +
+  geom_col()
+
+
+#nodoops <- unique(big4wt)
+#this removes duplicate rows
+
+```
+
+
+
+```{r, include = FALSE}
+dates <- unique(big4wt$date)
+
+for(i in dates){
+  df <- big4wt[which(big4wt$date %in% c(i-6 : i)), ]
+  TotViewAvg <- sum(df$views)
+  print(TotViewAvg)
+}
+```
+
+
+
+```{r}
+
+big4wt1116_0101 <- big4wt %>%
+  filter(date > "2016-11-16") %>%
+  filter(date < "2017-01-01")
+
+ggplot(big4wt1116_0101, aes(date, views, group = country_name, color = country_name)) +
+  geom_point() +
+  geom_line() +
+  ggtitle("Country Comparison: First Spike")
+
+big4wt0117_0217 <- big4wt %>%
+  filter(date > "2017-01-01") %>%
+  filter(date < "2017-02-01")
+
+ggplot(big4wt0117_0217, aes(date, views, group = country_name, color = country_name)) +
+  geom_point() +
+  #geom_line() +
+  stat_smooth() + 
+  ggtitle("Country Comparison: First Lull")
+
+USAwt0117_0217 <- USAwt %>%
+  filter(date > "2017-01-01") %>%
+  filter(date < "2017-02-01")
+
+ggplot(big4wt0117_0217, aes(country_name, views)) +
+  geom_boxplot(notch=TRUE)
+
+#A notched boxplot as an alternate example for "errorbars"
+```
+
+
+```{r, warning = FALSE} 
+big4wt1205_0101 <- big4wt %>%
+  filter(date > "2016-12-05") %>%
+  filter(date < "2017-01-01")
+
+ggplot(big4wt1205_0101, aes(subscribers_gained, views)) +
+  geom_jitter() +
+  stat_smooth(method = lm)
+
+ggplot(big4wt1205_0101, aes(subscribers_gained, views)) +
+  geom_jitter() +
+  stat_smooth()
+
+ggplot(big4wt, aes(subscribers_gained, views)) +
+  xlim(0, 10) +
+  ylim(0, 750) +
+  geom_jitter() +
+  stat_smooth(method = lm)
+
+ggplot(USAwt, aes(subscribers_gained, views)) +
+  xlim(0, 25) +
+  ylim(0, 1000) +
+  geom_jitter() +
+  stat_smooth(method = lm)
+
+ggplot(USAwt, aes(subscribers_gained, views)) +
+  xlim(0, 25) +
+  ylim(0, 1000) +
+  geom_jitter() +
+  stat_smooth()
+```
+
+
+
+```{r, Stat_Tools}
+
+USAwt0101_0531 <- USAwt %>%
+  filter(date > "2017-01-01") %>%
+  filter(date < "2017-05-31")
+
+USAwt0601_1031 <- USAwt %>%
+  filter(date > "2017-06-01") %>%
+  filter(date < "2017-10-31")
+
+t.test(USAwt$views)
+
+t.test(USAwt0101_0531$views, USAwt0601_1031$views)
+
+cor.test(USAwt$views, USAwt$subscribers_gained)
+
+bivReg <- lm(subscribers_gained~views, USAwt)
+summary(bivReg)
+
+confint(bivReg)
+
+plot(bivReg)
+  # explain the first 2
+
+viral100k <- data.frame(views = 100000)
+predict(bivReg, viral100k, interval="predict")
+    # explain what this output is
+
+multiReg <- lm(views~subscribers_gained + subscribers_lost, USAwt)
+multiReg
+
+
+USAwt0101_0331 <- USAwt %>%
+  filter(date > "2017-01-01") %>%
+  filter(date < "2017-03-31")
+
+bivReg2 <- lm(subscribers_gained~views, USAwt0101_0331)
+USAwtbivReg2 <- mutate(USAwt0101_0331, resid=resid(bivReg2)) 
+
+USAwtbivReg2%>%
+  ggplot(aes(resid))+
+  geom_histogram(color="blue",fill="red",bins=30)+
+  labs(x= "Residual", title= "Frequency of residuals for Subscribers Gained and Views")
+
+USAwtbivReg2%>%
+  ggplot(aes(views,resid))+
+  geom_point()+
+  geom_smooth(method = lm)
+
+#Within a non-spike view bracket
+
+reg<-lm(data = USAwt0101_0331, subscribers_gained~views)
+ncvTest(reg)
+  #within the first time bracket defined above, aka after view spike before second spike.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
